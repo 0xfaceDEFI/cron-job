@@ -1,0 +1,24 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://0xfaceDEFI@github.com/0xfaceDEFI/cron-job.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xfaceDEFI/cron-job/issues"
+  },
+  "homepage": "https://github.com/0xfaceDEFI/cron-job#readme",
+  "dependencies": {
+    "node-cron": "^3.0.0",
+    "node-schedule": "^2.0.0"
+  }
+}
